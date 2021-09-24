@@ -5,7 +5,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianOliveir1&layout=compact&langs_count=7&theme=dracula"/>
   
   ##
- 
+ </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C-Language" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+
+</div>
+  ##
 <div> 
 
   <a href = "mailto:williano@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
